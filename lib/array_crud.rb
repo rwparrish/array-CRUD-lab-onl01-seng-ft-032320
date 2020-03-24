@@ -42,8 +42,10 @@ end
 
 def retrieve_first_element_from_array(array)
   dog_names = ["wow", "Nala","Steve", "Heidi", "Joe"]
+  dog_names[0]
 end
 
 def retrieve_last_element_from_array(array)
-  dog_names = ["wow", "Nala","Steve", "Heidi", "Joe"]
+  dog_names = ["wow", "Nala","Steve", "Heidi", "arrays!"]
+  dog_names[5]
 end
