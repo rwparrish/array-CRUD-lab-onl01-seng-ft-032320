@@ -9,7 +9,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  dog_names = ["Nala","Steve", "Heidi", "Joe"]
+  dog_names = []
   dog_names << "Bark"
   
 end
