@@ -47,5 +47,5 @@ end
 
 def retrieve_last_element_from_array(array)
   dog_names = ["wow", "Nala","Steve", "Heidi", "arrays!"]
-  dog_names[5]
+  dog_names[-1]
 end
