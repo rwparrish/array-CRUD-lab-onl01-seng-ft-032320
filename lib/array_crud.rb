@@ -29,7 +29,7 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
-  dog_names = ["arrays!", "Nala","Steve", "Heidi", "Joe"]
+  dog_names = ["wow", "Nala","Steve", "Heidi", "Joe"]
   
   
   
